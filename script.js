@@ -9,9 +9,7 @@ let brands = [];
 searchInput.addEventListener("input", (e) => {
     const value = e.target.value.toLowerCase();
     brands.forEach((brand) => {
-        const isVisible =
-            brand.name.toLowerCase().includes(value) ||
-            brand.category.toLowerCase().includes(value);
+        const isVisible = brand.name.toLowerCase().includes(value);
         brand.element.classList.toggle("hide", !isVisible);
     });
 });
