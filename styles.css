@@ -1,0 +1,12 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+input {
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 300px;
+}
+.result {
+    margin-top: 20px;
+}
