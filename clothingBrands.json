@@ -1,51 +1,51 @@
 [
     {
         "name": "H&M",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Lindex",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "COS",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "NA‑KD",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Stadium",
-        "rating": "Luxury"
+        "rating": "Expensive"
     },
     {
         "name": "& Other Stories",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Nelly",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Monki",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Arket",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Weekday",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Fjällräven",
-        "rating": "Luxury"
+        "rating": "Expensive"
     },
     {
         "name": "Polarn O. Pyret",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Totême",
@@ -53,27 +53,27 @@
     },
     {
         "name": "Rodebjer",
-        "rating": "Luxury"
+        "rating": "Expensive"
     },
     {
         "name": "Mini Rodini",
-        "rating": "Luxury"
+        "rating": "Luxurious"
     },
     {
         "name": "Acne Studios",
-        "rating": "Luxury"
+        "rating": "Expensive"
     },
     {
         "name": "Our Legacy",
-        "rating": "Luxury"
+        "rating": "Expensive"
     },
     {
         "name": "Peak Performance",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Gudrun Sjödén",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Odd Molly",
@@ -81,15 +81,15 @@
     },
     {
         "name": "Didriksons",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Newbie",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Nudie Jeans",
-        "rating": "Luxury"
+        "rating": "Expensive"
     },
     {
         "name": "Filippa K",
@@ -97,51 +97,51 @@
     },
     {
         "name": "Tiger of Sweden",
-        "rating": "Luxury"
+        "rating": "Luxurious"
     },
     {
         "name": "Eton",
-        "rating": "Luxury"
+        "rating": "Expensive"
     },
     {
         "name": "Björn Borg",
-        "rating": "Luxury"
+        "rating": "Expensive"
     },
     {
         "name": "House of Dagmar",
-        "rating": "Luxury"
+        "rating": "Luxurious"
     },
     {
         "name": "Bite Studio",
-        "rating": "Luxury"
+        "rating": "Luxurious"
     },
     {
         "name": "Dedicated",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Self Cinema",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "Kerber",
-        "rating": "Luxury"
+        "rating": "Luxurious"
     },
     {
         "name": "Gina Tricot",
-        "rating": "Luxury"
+        "rating": "Cheap"
     },
     {
         "name": "KappAhl",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "MQ",
-        "rating": "Luxury"
+        "rating": "Medium"
     },
     {
         "name": "J. Lindeberg",
-        "rating": "Luxury"
+        "rating": "Expensive"
     },
     {
         "name": "Stenströms",
@@ -149,6 +149,6 @@
     },
     {
         "name": "WESC",
-        "rating": "Luxury"
+        "rating": "Medium"
     }
 ]
