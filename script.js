@@ -14,7 +14,7 @@ searchInput.addEventListener("input", (e) => {
     });
 });
 
-fetch("brands.json")
+fetch("clothingBrands.json")
     .then((res) => res.json())
     .then((data) => {
         brands = data.map((brand) => {
@@ -22,11 +22,11 @@ fetch("brands.json")
             const header = card.querySelector("[data-header]");
             const body = card.querySelector("[data-body]");
             header.textContent = brand.name;
-            body.textContent = brand.category;
+            body.textContent = brand.rating;
             brandCardContainer.append(card);
             return {
                 name: brand.name,
-                category: brand.category,
+                rating: brand.rating,
                 element: card,
             };
         });
