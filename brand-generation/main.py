@@ -28,7 +28,9 @@ with open('klädmärken.txt', 'r', encoding='utf-8') as file:
 
 #Data cleaning and conversion to json data
 brands = [brand.strip() for brand in brands]
-json_data = [{'name': name, 'rating': classify_brand(name).capitalize()} for name in brands]
+json_data = [{'name': name, 'rating': 'unknown'} for name in brands]
+
+#classify_brand(name).capitalize()
 
 #Upload to json file
 with open('clothingBrands.json', 'w', encoding='utf-8') as f:
