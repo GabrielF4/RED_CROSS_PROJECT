@@ -15,7 +15,7 @@ submitButton.addEventListener("click", (e) => {
     });
 });
 
-fetch("clothingBrands.json")
+fetch("brand-generation/clothingBrands.json")
     .then((res) => res.json())
     .then((data) => {
         brands = data.map((brand) => {
