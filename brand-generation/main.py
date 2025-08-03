@@ -9,8 +9,6 @@ brands = [brand.strip() for brand in brands]
 print(brands)
 json_data = [{'name': name, 'rating': 'unknown'} for name in brands]
 
-#classify_brand(name).capitalize()
-
 #Upload to json file
 with open('clothingBrands.json', 'w', encoding='utf-8') as f:
     json.dump(json_data, f, ensure_ascii=False, indent=4)

@@ -9,18 +9,26 @@
         <title>Clothes Branding Categorizing</title>
     </head>
     <body>
-        <img src="assets/logo.png" alt="Svenska Röda Korset Logotyp" />
-        <div class="search-wrapper">
-            <label for="search">Search Brands</label>
-            <input type="search" id="serach" data-search />
-            <button id="submit-button">Search</button>
-        </div>
-        <div class="brand-cards" data-brand-cards-container></div>
-        <template data-brand-template>
-            <div class="card">
-                <div class="header" data-header></div>
-                <div class="body" data-body></div>
+        <header>
+            <img src="assets/logo.png" alt="Svenska Röda Korset Logotyp" />
+        </header>
+        <main>
+            <div class="search-wrapper">
+                <label for="search">Search Brands</label>
+                <input type="search" id="serach" data-search />
+                <button id="submit-button">Search</button>
             </div>
-        </template>
+            <div class="brand-cards" data-brand-cards-container></div>
+            <template data-brand-template>
+                <div class="card">
+                    <div class="header" data-header></div>
+                    <div class="body" data-body></div>
+                </div>
+            </template>
+        </main>
+        <footer>
+            Obs! This is a private project and isn't made by the red cross
+            brand.
+        </footer>
     </body>
 </html>
