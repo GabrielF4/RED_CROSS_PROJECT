@@ -24,10 +24,18 @@ footer {
     padding: 1rem;
 }
 
-.serach-wrapper {
+#brand-container {
+    background-color: #ddd;
+    height: 50vh;
+    overflow-y: auto;
+    padding: 1rem;
+}
+
+.search-wrapper {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 0.25rem;
+    margin: 1rem;
 }
 
 input {

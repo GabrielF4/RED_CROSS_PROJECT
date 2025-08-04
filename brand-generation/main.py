@@ -1,7 +1,7 @@
 import json
 
 #Read from file
-with open('klädmärken.txt', 'r', encoding='utf-8') as file:
+with open('klädmärken2.txt', 'r', encoding='utf-8') as file:
     brands = file.readlines()
 
 #Data cleaning and conversion to json data
