@@ -24,13 +24,6 @@ footer {
     padding: 1rem;
 }
 
-#brand-container {
-    background-color: #ddd;
-    height: 50vh;
-    overflow-y: auto;
-    padding: 1rem;
-}
-
 .search-wrapper {
     display: flex;
     flex-direction: row;

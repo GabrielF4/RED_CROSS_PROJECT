@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="styles.css" />
-        <script src="script2.js" defer></script>
+        <script src="script.js" type="module" defer></script>
         <title>Clothes Branding Categorizing</title>
     </head>
     <body>
@@ -16,9 +16,7 @@
             <label for="search">Search Brands: </label>
             <div class="search-wrapper">
                 <input type="search" id="serach" data-search />
-                <button id="submit-button">Search</button>
             </div>
-            <div id="brand-container"></div>
             <div class="brand-cards" data-brand-cards-container></div>
             <template data-brand-template>
                 <div class="card">
